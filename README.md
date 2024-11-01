@@ -1,6 +1,6 @@
-Hi, I’m [Your Name] 👋
+Hi, I’m Meherab Hoshain Apu 
 
-Welcome to my GitHub portfolio! I’m an EEE student with a love for technology, problem solving and learning. This is where I’ll be posting my projects, experiments and learning journey.
+Welcome to my GitHub portfolio! I’m an EEE student with a love for technology, problem solving and learning. This is where my projects, experiments and learning journey are documented .
 
 ## About Me
 
@@ -8,15 +8,17 @@ Welcome to my GitHub portfolio! I’m an EEE student with a love for technology,
 
 ## Skills
 
-- **Programming Languages*: C++, Python - **Engineering Tools*: MATLAB, LTSpice, Multisim - **Technologies*: Embedded Systems, Microcontrollers, IoT
+- **Programming Languages*: C++, Python
+- **Engineering Tools*: MATLAB, LTSpice, Multisim
+- **Technologies*: Embedded Systems, Microcontrollers, IoT
 
 ## Projects
 
-- **Project 1*: Project Name
-Brief description of what this project does and the technologies used.
+- **Project 1*: Math Learning Program In C++
+It used C ++ program to make a complete functional system to teach normal math problem.
 
-- **Project 2*: Project Name
-Brief description of what this project does and the technologies used.
+- **Project 2*: File Handeling project 
+It is a project to practice my file handeling knowledge with C++ .
 
 Check out my repos to see what I’m working on. I’m always up for feedback, collaboration and learning!
 
@@ -24,6 +26,6 @@ Check out my repos to see what I’m working on. I’m always up for feedback, c
 
 ### Contact
 
-- 📫 [Your Email] - 💼 [Your LinkedIn]
+- 📫 apuking0199@gmail.com - 💼 https://www.linkedin.com/in/meherab-hoshain-apu-2b044430a/
 
 Let’s connect! 👋
